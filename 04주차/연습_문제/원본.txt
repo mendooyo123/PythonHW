@@ -1,2 +1,3 @@
 원본입니다.
 https://colab.research.google.com/drive/1ilUgsei91JGwNErVWSLeCdmt4s9hmoU_?usp=sharing        ##연습문제_1
+https://colab.research.google.com/drive/17tvEnda7i3coBjwUlKh9rxaSKyda1YWD?usp=sharing        ##연습문제_2
