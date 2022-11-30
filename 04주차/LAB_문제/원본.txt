@@ -1,1 +1,2 @@
-
+원본입니다.
+https://colab.research.google.com/drive/1d915_DA55guSmsaQgnOb6pxbOpYT389N?usp=sharing
