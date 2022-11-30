@@ -1,1 +1,3 @@
+원본입니다.
+Original file is located at:
 https://colab.research.google.com/drive/1k7iU5mRrk061I-QOxGDlWoD8aumHWe5w?usp=sharing
